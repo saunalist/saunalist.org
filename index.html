@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="generator" content="Hugo 0.111.3">
+    <title>Sauna List</title>
+    <link rel="stylesheet" href="/css/style.css">
+    
+</head>
+<body>
+    <h1>saunalist.org</h1>
+    
+    <div id="map"></div>
+
+    <script>
+        var map;
+        var currentInfoWindow = null;  
+
+        function initMap() {
+            map = new google.maps.Map(document.getElementById('map'), {
+                center: {lat: 0, lng: 0},
+                zoom: 1,
+                mapTypeControl: false,
+                styles: [
+                    {
+                        "featureType": "administrative",
+                        "elementType": "all",
+                        "stylers": [
+                            {
+                                "visibility": "off"
+                            }
+                        ]
+                    },
+                    {
+                        "featureType": "landscape",
+                        "elementType": "all",
+                        "stylers": [
+                            {
+                                "visibility": "off"
+                            }
+                        ]
+                    },
+                    {
+                        "featureType": "poi",
+                        "elementType": "all",
+                        "stylers": [
+                            {
+                                "visibility": "off"
+                            }
+                        ]
+                    },
+                    {
+                        "featureType": "road",
+                        "elementType": "all",
+                        "stylers": [
+                            {
+                                "visibility": "on"
+                            }
+                        ]
+                    },
+                    {
+                        "featureType": "road",
+                        "elementType": "labels",
+                        "stylers": [
+                            {
+                                "visibility": "off"
+                            }
+                        ]
+                    },
+                    {
+                        "featureType": "transit",
+                        "elementType": "all",
+                        "stylers": [
+                            {
+                                "visibility": "on"
+                            }
+                        ]
+                    },
+                    {
+                        "featureType": "transit",
+                        "elementType": "labels",
+                        "stylers": [
+                            {
+                                "visibility": "off"
+                            }
+                        ]
+                    },
+                    {
+                        "featureType": "water",
+                        "elementType": "all",
+                        "stylers": [
+                            {
+                                "visibility": "on"
+                            }
+                        ]
+                    },
+                    {
+                        "featureType": "water",
+                        "elementType": "geometry",
+                        "stylers": [
+                            {
+                                "color": "#12608d"
+                            }
+                        ]
+                    },
+                    {
+                        "featureType": "water",
+                        "elementType": "labels.text.fill",
+                        "stylers": [
+                            {
+                                "visibility": "off"
+                            }
+                        ]
+                    },
+                    {
+                        "featureType": "water",
+                        "elementType": "labels.text.stroke",
+                        "stylers": [
+                            {
+                                "visibility": "off"
+                            }
+                        ]
+                    }
+                ]
+            });
+        
+
+            
+                (function() {
+                    var pinSymbol = {
+                        path: "M 0,0 C -2,-20 -10,-22 -10,-30 A 10,10 0 1,1 10,-30 C 10,-22 2,-20 0,0 z",
+                        fillColor: '#FFFFFF',
+                        fillOpacity: 1,
+                        strokeColor: '#000000',
+                        strokeWeight: 2,
+                        scale: 1
+                    };
+
+                    var pinMarker = new google.maps.Marker({
+                        position: {lat:  40.728232 , lng:  -73.9835859 },
+                        map: map,
+                        icon: pinSymbol,
+                        label: {
+                            text: "🔥", 
+                            fontSize: "16px",
+                            fontWeight: "bold"
+                        },
+
+                    });
+
+
+                    var infoWindow = new google.maps.InfoWindow({
+                        content: "<div style='font-family: Arial, sans-serif;'><h1>Russian \u0026 Turkish Baths</h1><p>Temperature: 90 degrees</p><p><a href='https:\/\/maps.google.com\/?q=place_id:ChIJT6uag51ZwokRBV2vUMM3FWQ'>Link</a></p></div>"
+                    });
+
+                    [pinMarker].forEach(function(marker) {
+                        marker.addListener('click', function() {
+                            if (currentInfoWindow) {
+                                currentInfoWindow.close();
+                            }
+                            infoWindow.open(map, marker);
+                            currentInfoWindow = infoWindow;
+                        });
+                    });
+                })();
+            
+                (function() {
+                    var pinSymbol = {
+                        path: "M 0,0 C -2,-20 -10,-22 -10,-30 A 10,10 0 1,1 10,-30 C 10,-22 2,-20 0,0 z",
+                        fillColor: '#FFFFFF',
+                        fillOpacity: 1,
+                        strokeColor: '#000000',
+                        strokeWeight: 2,
+                        scale: 1
+                    };
+
+                    var pinMarker = new google.maps.Marker({
+                        position: {lat:  35.648092 , lng:  139.7457597 },
+                        map: map,
+                        icon: pinSymbol,
+                        label: {
+                            text: "🔥", 
+                            fontSize: "16px",
+                            fontWeight: "bold"
+                        },
+
+                    });
+
+
+                    var infoWindow = new google.maps.InfoWindow({
+                        content: "<div style='font-family: Arial, sans-serif;'><h1>Paradise</h1><p>Temperature: 90 degrees</p><p><a href='https:\/\/maps.google.com\/?q=place_id:ChIJpbgTwUGLGGARzA9IWdvSpuM'>Link</a></p></div>"
+                    });
+
+                    [pinMarker].forEach(function(marker) {
+                        marker.addListener('click', function() {
+                            if (currentInfoWindow) {
+                                currentInfoWindow.close();
+                            }
+                            infoWindow.open(map, marker);
+                            currentInfoWindow = infoWindow;
+                        });
+                    });
+                })();
+            
+
+
+        }
+        </script>
+                            
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCOU-ibMnoFvxCoAZUNODdzgHqeKRXrJpI&callback=initMap" async defer></script>
+
+    <div class="content">
+        <h1>Welcome to Sauna List</h1>
+        <p>This site provides a global map of saunas. The list is carefully curated and maintained to ensure it remains up-to-date.</p>
+    
+        <h2>How to use the map</h2>
+        <p>Click on a marker to get information about the sauna. The popup will show the name of the sauna, the temperature, and a link to its Google Maps page.</p>
+    
+        <h2>Contact</h2>
+        <p>For inquiries, you can reach us at [Your email address].</p>
+    </div>
+    
+    <footer>
+        <p>&copy; 2023 Sauna List</p>
+    </footer>
+
+</body>
+</html>
