@@ -581,6 +581,40 @@
                         });
                     });
                 })();
+
+                (function() {
+                    var pinSymbol = {
+                        path: "M 0,0 C -2,-20 -10,-22 -10,-30 A 10,10 0 1,1 10,-30 C 10,-22 2,-20 0,0 z",
+                        fillColor: '#FFFFFF',
+                        fillOpacity: 1,
+                        strokeColor: '#000000',
+                        strokeWeight: 2,
+                        scale: 1
+                    };
+
+                    var pinMarker = new google.maps.Marker({
+                        position: {lat:  40.6963724 , lng:  -73.9890108 },
+                        map: map,
+                        icon: pinSymbol,
+                    });
+
+
+                    var infoWindow = new google.maps.InfoWindow({
+                        content: "<div style='font-family: Arial, sans-serif;'><h2>Saunita</h2><p>Sauna heat: 175 degrees maximum</p><p>Cold plunge: ~20 degrees (shower/bath)</p><p>Sauna-as-a-Service consulting, espresso, simulated cold plunges via shower, espresso + Sambuca service, rooftop accessibility, gym, overnight stay potential. Experience Saunita's health and psychology access to through a partnership with a local nonprofit. Booking: saunita.org; Code: github.com/shortlater/saunita.org.</p><p><a href='https:\/\/maps.google.com\/?q=place_id:ChIJkVg-kMNbwokRDyn2wRuTMao'>Google Maps Link</a></p></div>"
+                    });
+
+                    [pinMarker].forEach(function(marker) {
+                        marker.addListener('click', function() {
+                            if (currentInfoWindow) {
+                                currentInfoWindow.close();
+                            }
+                            infoWindow.open(map, marker);
+                            currentInfoWindow = infoWindow;
+                        });
+                    });
+                })();
+
+
             
 
 
