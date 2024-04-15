@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }).addTo(map);
 
     // Fetch the sauna data from the JSON file
-    fetch('/data/saunas.json')
+    fetch('/saunas.json')
         .then(response => response.json())
         .then(data => {
             data.forEach(sauna => {
