@@ -1,68 +1,156 @@
 [
-    {
-      "name":"Russian & Turkish Baths",
-      "url":"https://maps.google.com/?q=place_id:ChIJT6uag51ZwokRBV2vUMM3FWQ",
-      "coordinates":{
-        "lat":40.728232,
-        "lng":-73.9835859
-      },
-      "heat":"95",
-      "cold":"10-20",
-      "description":"Quintessential New York sauna. Purchase bulk passes for economic visits as low as 25 US dollars. The brief era of the over-chlorinated cold plunge (~2019-2022) appears to finally be over and the Russian & Turkish Baths reigns as the best NYC sauna."
+  {
+    "name": "Russian & Turkish Baths",
+    "url": "https://maps.google.com/?q=place_id:ChIJT6uag51ZwokRBV2vUMM3FWQ",
+    "coordinates": {
+      "lat": 40.728232,
+      "lng": -73.9835859
     },
-    {
-      "name":"Paradise",
-      "url":"https://maps.google.com/?q=place_id:ChIJpbgTwUGLGGARzA9IWdvSpuM",
-      "coordinates":{
-        "lat":35.648092,
-        "lng":139.7457597
-      },
-      "heat":"90",
-      "cold":"10-20",
-      "description":"Tokyo paradise."
+    "heat": "95C",
+    "cold": "10C",
+    "description": "Quintessential New York sauna. Purchase bulk passes for economic visits as low as 25 US dollars. The brief era of the over-chlorinated cold plunge (~2019-2022) appears to finally be over and the Russian & Turkish Baths reigns as the best NYC sauna."
+  },
+  {
+    "name": "Paradise",
+    "url": "https://maps.google.com/?q=place_id:ChIJpbgTwUGLGGARzA9IWdvSpuM",
+    "coordinates": {
+      "lat": 35.648092,
+      "lng": 139.7457597
     },
-    {
-      "name":"BATHHOUSE",
-      "url":"https://maps.google.com/?q=place_id:ChIJBTF_ACxZwokRk8y1ICME3F4",
-      "coordinates":{
-        "lat":40.7205873,
-        "lng":-73.9575054
-      },
-      "heat":"90",
-      "cold":"20",
-      "description":"True to overproductionized Williamsburg. Hilarious Aufguss experiences served daily represents the commoditization of wellness culture. Recommend avoiding if not for the reasonably functional sauna and cold plunge."
+    "heat": "90C",
+    "cold": "15C",
+    "description": "Tokyo paradise."
+  },
+  {
+    "name": "BATHHOUSE",
+    "url": "https://maps.google.com/?q=place_id:ChIJBTF_ACxZwokRk8y1ICME3F4",
+    "coordinates": {
+      "lat": 40.7205873,
+      "lng": -73.9575054
     },
-    {
-      "name":"L\u00f6yly Helsinki",
-      "url":"https://maps.google.com/?q=place_id:ChIJ7WWs57ELkkYRJJRbVu2rgfo",
-      "coordinates":{
-        "lat":60.15206559999999,
-        "lng":24.9302737
-      },
-      "heat":"90",
-      "cold":"Unknown",
-      "description":"Helsinki's premier sauna experience."
+    "heat": "85C",
+    "cold": "15C",
+    "description": "True to overproductionized Williamsburg. Hilarious Aufguss experiences served daily represents the commoditization of wellness culture. Recommend avoiding if not for the reasonably functional sauna and cold plunge."
+  },
+  {
+    "name": "L\u00f6yly Helsinki",
+    "url": "https://maps.google.com/?q=place_id:ChIJ7WWs57ELkkYRJJRbVu2rgfo",
+    "coordinates": {
+      "lat": 60.15206559999999,
+      "lng": 24.9302737
     },
-    {
-      "name":"Bota Bota, spa-sur-l'eau",
-      "url":"https://maps.google.com/?q=place_id:ChIJPzRiZ_YayUwRIOdIDO6HM5U",
-      "coordinates":{
-        "lat":45.499865,
-        "lng":-73.5511057
-      },
-      "heat":"90",
-      "cold":"15",
-      "description":"On an immobile boat. The Williamsburg BATHHOUSE of the far north."
+    "heat": "90C",
+    "cold": "15C",
+    "description": "Helsinki's premier sauna experience."
+  },
+  {
+    "name": "Bota Bota, spa-sur-l'eau",
+    "url": "https://maps.google.com/?q=place_id:ChIJPzRiZ_YayUwRIOdIDO6HM5U",
+    "coordinates": {
+      "lat": 45.499865,
+      "lng": -73.5511057
     },
-    {
-      "name":"ROOFTOP Sauna",
-      "url":"https://maps.google.com/?q=place_id:ChIJlxDznifvGGARKGJPDLXWVT4",
-      "coordinates":{
-        "lat":35.7034904,
-        "lng":139.6011096
-      },
-      "heat":"90",
-      "cold":"20",
-      "description":"Bathtub cold plunges on a roof, of varying temperature. Experience sunset totonou at this one-of-a-kind sauna."
-    }
-  ]
+    "heat": "80C",
+    "cold": "15C",
+    "description": "On an immobile boat. The Williamsburg BATHHOUSE of the far north."
+  },
+  {
+    "name": "ROOFTOP Sauna",
+    "url": "https://maps.google.com/?q=place_id:ChIJlxDznifvGGARKGJPDLXWVT4",
+    "coordinates": {
+      "lat": 35.7034904,
+      "lng": 139.6011096
+    },
+    "heat": "90C",
+    "cold": "12C",
+    "description": "Bathtub cold plunges on a roof, of varying temperature. Experience sunset totonou at this one-of-a-kind sauna."
+  },
+  {
+    "name": "Archimedes Banya",
+    "url": "https://maps.google.com/?q=place_id:ChIJt8Cb82l_j4ARaCVSzzc8gYc",
+    "coordinates": {
+      "lat": 37.7305426,
+      "lng": -122.37276
+    },
+    "heat": "90C",
+    "cold": "15C",
+    "description": "The San Francisco option."
+  },
+  {
+    "name": "King Spa & Sauna",
+    "url": "https://maps.google.com/?q=place_id:ChIJ8T2RcxT3wokRn9NzrWR04z0",
+    "coordinates": {
+      "lat": 40.8519124,
+      "lng": -74.0022812
+    },
+    "heat": "90C",
+    "cold": "20C",
+    "description": "You don't need a hotel in NYC, just take the bus here and spend the night."
+  },
+  {
+    "name": "Personal Sauna KUU",
+    "url": "https://maps.google.com/?q=place_id:ChIJS9gIJCWNGGARinnbiadN2Kg",
+    "coordinates": {
+      "lat": 35.6650287,
+      "lng": 139.7099416
+    },
+    "heat": "90C",
+    "cold": "15C",
+    "description": "A perfected personal sauna."
+  },
+  {
+    "name": "渋谷SAUNAS",
+    "url": "https://maps.google.com/?q=place_id:ChIJpzjfMsyLGGARYO1X1qbsAnU",
+    "coordinates": {
+      "lat": 35.6560791,
+      "lng": 139.7008627
+    },
+    "heat": "85C",
+    "cold": "15C",
+    "description": "Five distinct sauna rooms; variations on the sauna theme. Two cold plunges. Half indoor, half outdoor. A lot of thought went into the design here."
+  },
+  {
+    "name": "生姜サウナ 金の亀",
+    "url": "https://maps.google.com/?q=place_id:ChIJnQoDdsGNGGARwoOL6hYRcUM",
+    "coordinates": {
+      "lat": 35.675739,
+      "lng": 139.7356527
+    },
+    "heat": "90C",
+    "cold": "15C",
+    "description": "A.k.a. Kinnokame, a delightful turtle and ginger-themed sauna in Akasaka."
+  },
+  {
+    "name": "AIRE Ancient Baths New York",
+    "url": "https://maps.google.com/?q=place_id:ChIJ63NebSBawokRnDuPylB7t38",
+    "coordinates": {
+      "lat": 40.7181473,
+      "lng": -74.00482
+    },
+    "heat": "80C",
+    "cold": "10C",
+    "description": "Pretend you're in ancient Rome. Overpriced, but two cold plunge levels make it worth the visit."
+  },
+  {
+    "name": "SoJo Spa Club",
+    "url": "https://maps.google.com/?q=place_id:ChIJ358yeUz2wokRJZ4uCq1YGcY",
+    "coordinates": {
+      "lat": 40.8187589,
+      "lng": -73.9794845
+    },
+    "heat": "70C",
+    "cold": "20",
+    "description": "No."
+  },
+  {
+    "name": "Wall Street Bath & Spa 88",
+    "url": "https://maps.google.com/?q=place_id:ChIJw0iarSJawokRYslMIjGxy1o",
+    "coordinates": {
+      "lat": 40.7091089,
+      "lng": -74.0058052
+    },
+    "heat": "90C",
+    "cold": "15C",
+    "description": "Russian. Cold. And hot."
+  }
+]
