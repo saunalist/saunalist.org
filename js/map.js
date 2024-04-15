@@ -12,20 +12,8 @@ document.addEventListener('DOMContentLoaded', function () {
         .then(data => {
             data.forEach(sauna => {
                 var mapUrl = sauna.url;
-                var coordinates = [sauna.coordinates.lat, sauna.coordinates.lng];
+                var coordinates = [sauna.lat, sauna.lng];
                 var marker = L.marker(coordinates).addTo(map);
-                marker.bindPopup(`<b><a href="${sauna.url}" target="_blank">${sauna.name}</a></b><br>${sauna.description}`);            });
+                marker.bindPopup(`<b><a href="${sauna.url}" target="_blank">${sauna.name}</a></b><br>${sauna.description}`);});
         });
-
-    function extractCoordinates(mapUrl) {
-        // Extract latitude and longitude from the Google Maps URL
-        var regex = /@(-?\d+\.\d+),(-?\d+\.\d+)/;
-        var match = mapUrl.match(regex);
-        if (match) {
-            var latitude = parseFloat(match[1]);
-            var longitude = parseFloat(match[2]);
-            return [latitude, longitude];
-        }
-        return [0, 0];
-    }
 });
