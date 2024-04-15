@@ -8,10 +8,10 @@
     },
     "heat": "95C",
     "cold": "10C",
-    "description": "Quintessential New York sauna. Purchase bulk passes for economic visits as low as 25 US dollars. The brief era of the over-chlorinated cold plunge (~2019-2022) appears to finally be over and the Russian & Turkish Baths reigns as the best NYC sauna."
+    "description": "Quintessential New York sauna. Old and grimey adds a bit to the charm. The cold plunge is over-chlorinated to the point of being unusable."
   },
   {
-    "name": "Paradise",
+    "name": "Paradise Sauna",
     "url": "https://maps.google.com/?q=place_id:ChIJpbgTwUGLGGARzA9IWdvSpuM",
     "coordinates": {
       "lat": 35.648092,
@@ -19,7 +19,7 @@
     },
     "heat": "90C",
     "cold": "15C",
-    "description": "Tokyo paradise."
+    "description": "Saunachelin award winner for 2022. Idyllic interior. One of the top recommendations for Tokyo saunas. Female days on the 10th, 20th, 30th of each month. Male only other days."
   },
   {
     "name": "BATHHOUSE",
@@ -30,7 +30,7 @@
     },
     "heat": "85C",
     "cold": "15C",
-    "description": "True to overproductionized Williamsburg. Hilarious Aufguss experiences served daily represents the commoditization of wellness culture. Recommend avoiding if not for the reasonably functional sauna and cold plunge."
+    "description": "True to overproductionized Williamsburg. Hilarious Aufguss experiences served daily represents the commoditization of wellness culture. Owned and run by a known Brooklyn grifter, so patronize at your discretion. Reasonably functional sauna and cold plunge."
   },
   {
     "name": "L\u00f6yly Helsinki",
@@ -52,7 +52,7 @@
     },
     "heat": "80C",
     "cold": "15C",
-    "description": "On an immobile boat. The Williamsburg BATHHOUSE of the far north."
+    "description": "On an immobile boat."
   },
   {
     "name": "ROOFTOP Sauna",
@@ -63,7 +63,7 @@
     },
     "heat": "90C",
     "cold": "12C",
-    "description": "Bathtub cold plunges on a roof, of varying temperature. Experience sunset totonou at this one-of-a-kind sauna."
+    "description": "Bathtub cold plunges on a roof, of varying temperature. Experience sunset totonou at this one-of-a-kind sauna. Coworking space on the floor below."
   },
   {
     "name": "Archimedes Banya",
@@ -75,6 +75,83 @@
     "heat": "90C",
     "cold": "15C",
     "description": "The San Francisco option."
+  },
+  {
+    "name": "MONSTER WORK & SAUNA",
+    "url": "https://www.google.com/maps/place/MONSTER+WORK+%26+SAUNA/@35.704356,139.5605063,15z/data=!3m1!4b1!4m6!3m5!1s0x6018ef89eb3061e7:0xb8be1555481d132a!8m2!3d35.7043574!4d139.5789601!16s%2Fg%2F11vf31cy8m?entry=ttu",
+    "coordinates": {
+      "lat": 35.704356,
+      "lng": 139.5605063
+    },
+    "heat": "90C",
+    "cold": "15C",
+    "description": "By the ROOFTOP Sauna team. Largest sauna room in Tokyo. Multiple seat tiers. A large cold plunge that cools to 10C on one end and 20C on another yielding a temperature gradient."
+  },
+  {
+    "name": "SKY SPA Yokohama",
+    "url": "https://www.google.com/maps/place/SKY+SPA+Yokohama/@35.4679063,139.623487,14.28z/data=!3m1!5s0x60185c14a7924f45:0xce25fcaf3562b75!4m17!1m7!3m6!1s0x6018ef89eb3061e7:0xb8be1555481d132a!2sMONSTER+WORK+%26+SAUNA!8m2!3d35.7043574!4d139.5789601!16s%2Fg%2F11vf31cy8m!3m8!1s0x60185c1359061d77:0x7bf8d81fa4d32047!5m2!4m1!1i2!8m2!3d35.4645561!4d139.6246488!16s%2Fg%2F1vgqd1jh?entry=ttu",
+    "coordinates": {
+      "lat": 35.4679063,
+      "lng": 139.623487
+    },
+    "heat": "90C",
+    "cold": "15C",
+    "description": "Saunachelin winner. Skyline view. Multiple sauna rooms. Dedicated co-ed sauna on the upper floor with adjacent ice rooms. Hosts many aufguss championships."
+  },
+  {
+    "name": "Wellbe Sakae",
+    "url": "https://www.google.com/maps/place/Wellbe+Sakae/@35.1649741,136.9019774,16.94z/data=!3m1!5s0x600370d253d0cae9:0x70ebc94247510144!4m9!3m8!1s0x600370d253d0a481:0xa7c5afbe1144febb!5m2!4m1!1i2!8m2!3d35.1663956!4d136.9056817!16s%2Fg%2F1tdwkfgf?entry=ttu",
+    "coordinates": {
+      "lat": 35.1649741,
+      "lng": 136.9019774
+    },
+    "heat": "90C",
+    "cold": "15C",
+    "description": "Saunachelin winner. Many distinct sauna rooms. A nice cold plunge inside an ice room."
+  },
+  {
+    "name": "COCOFURO かが浴場",
+    "url": "https://www.google.com/maps/place/COCOFURO+%E3%81%8B%E3%81%8C%E6%B5%B4%E5%A0%B4/@35.7425587,139.6964283,14.04z/data=!3m1!5s0x6018928801ac9a73:0x50fc81e0a10e99b9!4m6!3m5!1s0x601893089b124eeb:0x46a53d40e4c569cf!8m2!3d35.7549577!4d139.7318728!16s%2Fg%2F11kc2kmm32?entry=ttu",
+    "coordinates": {
+      "lat": 35.7425587,
+      "lng": 139.6964283
+    },
+    "heat": "90C",
+    "cold": "15C",
+    "description": "Highly recommended, off-the-tourist path sento. Popular among locals. Renovated and modernized. Every 30 minutes, a light show and music accompany an auto-loyly. Setlists change daily, mostly J-pop."
+  },
+  {
+    "name": "Koganeyu",
+    "url": "https://www.google.com/maps/place/Koganeyu/@35.6908487,139.7988082,14.63z/data=!4m6!3m5!1s0x601888d5bf149a73:0x11588bd6d51d6dbb!8m2!3d35.7022277!4d139.8153012!16s%2Fg%2F1vfp3md0?entry=ttu",
+    "coordinates": {
+      "lat": 35.6908487,
+      "lng": 139.7988082
+    },
+    "heat": "90C",
+    "cold": "15C",
+    "description": "Modernized and renovated sento, originally founded in 1932. Popular among locals. Famous for its beer bar."
+  },
+  {
+    "name": "8HOTEL CHIGASAKI",
+    "url": "https://www.google.com/maps/place/8HOTEL+CHIGASAKI/@35.3395533,139.3840225,15z/data=!4m9!3m8!1s0x6018527cea279dd9:0x9c223227dd8c4c3b!5m2!4m1!1i2!8m2!3d35.3299086!4d139.409462!16s%2Fg%2F11j6ytgs1t?entry=ttu",
+    "coordinates": {
+      "lat": 35.3395533,
+      "lng": 139.3840225
+    },
+    "heat": "90C",
+    "cold": "15C",
+    "description": "Hip hotel with a Saunachelin-winning co-ed sauna. At evening, the hotel pool is set to cold for a plunge you can dive into."
+  },
+  {
+    "name": "８HOTEL SHONAN FUJISAWA",
+    "url": "https://www.google.com/maps/place/%EF%BC%98HOTEL+SHONAN+FUJISAWA/@35.3376608,139.4831508,15.76z/data=!3m1!5s0x60184e349479e37f:0xeea17373f630c30e!4m20!1m10!3m9!1s0x6018527cea279dd9:0x9c223227dd8c4c3b!2s8HOTEL+CHIGASAKI!5m2!4m1!1i2!8m2!3d35.3299086!4d139.409462!16s%2Fg%2F11j6ytgs1t!3m8!1s0x60184e349236f5b3:0xb4207310f71b9999!5m2!4m1!1i2!8m2!3d35.3379108!4d139.4856728!16s%2Fg%2F1v9gjzb7?entry=ttu",
+    "coordinates": {
+      "lat": 35.3376608,
+      "lng": 139.4831508
+    },
+    "heat": "90C",
+    "cold": "15C",
+    "description": "Hotel with a photogenic co-ed spa called 8 WATER CAVE."
   },
   {
     "name": "King Spa & Sauna",
@@ -99,7 +176,7 @@
     "description": "A perfected personal sauna."
   },
   {
-    "name": "渋谷SAUNAS",
+    "name": "SHIBUYA SAUNAS",
     "url": "https://maps.google.com/?q=place_id:ChIJpzjfMsyLGGARYO1X1qbsAnU",
     "coordinates": {
       "lat": 35.6560791,
@@ -107,10 +184,10 @@
     },
     "heat": "85C",
     "cold": "15C",
-    "description": "Five distinct sauna rooms; variations on the sauna theme. Two cold plunges. Half indoor, half outdoor. A lot of thought went into the design here."
+    "description": "Five distinct sauna rooms; variations on the sauna theme. Two cold plunges. Half indoor, half outdoor. A lot of thought went into the design here. Saunachelin winner. One of the top recommendations in Tokyo."
   },
   {
-    "name": "生姜サウナ 金の亀",
+    "name": "Kinnokame",
     "url": "https://maps.google.com/?q=place_id:ChIJnQoDdsGNGGARwoOL6hYRcUM",
     "coordinates": {
       "lat": 35.675739,
@@ -118,7 +195,7 @@
     },
     "heat": "90C",
     "cold": "15C",
-    "description": "A.k.a. Kinnokame, a delightful turtle and ginger-themed sauna in Akasaka."
+    "description": "A.k.a. Kinnokame, a delightful turtle and ginger-themed sauna in Akasaka. Cold plunge is infused with ginger. Loyly is infused with ginger essential oils. Free ginger sugar tablets and ginger water."
   },
   {
     "name": "AIRE Ancient Baths New York",
@@ -140,7 +217,7 @@
     },
     "heat": "70C",
     "cold": "20",
-    "description": "No."
+    "description": "Instagrammable spot that people might enjoy visiting on occasion, but too posh for many."
   },
   {
     "name": "Wall Street Bath & Spa 88",
@@ -151,6 +228,6 @@
     },
     "heat": "90C",
     "cold": "15C",
-    "description": "Russian. Cold. And hot."
+    "description": "A Russian bathhouse in the Financial District. Arguably better than the Russian & Turkish Baths, if not only for the healther chlorine levels in the deep plunge."
   }
 ]
