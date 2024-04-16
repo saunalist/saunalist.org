@@ -229,5 +229,38 @@
     "url2": "https://maps.google.com/?q=place_id:ChIJjfrdZphRqEcRT6O7Rn8rVLI",
     "description": "Berlin's top sauna destination. Sprawling spa with high-frequency aufguss across multiple rooms. A single one-person cold plunge.",
     "country": "Germany"
+  },
+  {
+    "name": "Othership Adelaide",
+    "gname": "Othership Adelaide",
+    "place_id": "ChIJbyKxum41K4gRenoEfdsHrqo",
+    "lat": 43.6460984,
+    "lng": -79.39774059999999,
+    "url": "https://www.google.com/maps/place/Othership+Adelaide/@43.6455262,-79.4059305,16.18z/data=!3m1!5s0x882b34dc0c87fde7:0x4f146afbbbd9fbda!4m10!1m2!2m1!1sOthership!3m6!1s0x882b356ebab1226f:0xaaae07db7d047a7a!8m2!3d43.6460984!4d-79.3977406!15sCglPdGhlcnNoaXCSAQNzcGHgAQA!16s%2Fg%2F11rjtq6gqr?entry=ttu",
+    "url2": "https://maps.google.com/?q=place_id:ChIJbyKxum41K4gRenoEfdsHrqo",
+    "description": "Immersive sauna and cold plunge with facilitated classes and breathwork.",
+    "country": "Canada"
+  },
+  {
+    "name": "Othership Yorkville",
+    "gname": "Othership Yorkville",
+    "place_id": "ChIJUS2HkIs1K4gR6mRrnqwpaX0",
+    "lat": 43.6694504,
+    "lng": -79.39222079999999,
+    "url": "https://www.google.com/maps/place/Othership+Yorkville/@43.6694504,-79.3922208,17z/data=!3m1!4b1!4m6!3m5!1s0x882b358b90872d51:0x7d6929ac9e6b64ea!8m2!3d43.6694504!4d-79.3922208!16s%2Fg%2F11svyr874d?authuser=0&hl=en&entry=ttu",
+    "url2": "https://maps.google.com/?q=place_id:ChIJUS2HkIs1K4gR6mRrnqwpaX0",
+    "description": "Immersive sauna and cold plunge with facilitated classes and breathwork.",
+    "country": "Canada"
+  },
+  {
+    "name": "Rimske Terme",
+    "gname": "Rimske Terme Spa & Business",
+    "place_id": "ChIJd6pr8CxzZUcRceML8bKSyLI",
+    "lat": 46.119129,
+    "lng": 15.202626,
+    "url": "https://www.google.com/maps/place/Rimske+Terme+Spa+%26+Business/@46.1189275,15.2008268,17.77z/data=!4m13!1m2!2m1!1srimske+terme!3m9!1s0x4765732cf06baa77:0xb2c892b2f10be371!5m2!4m1!1i2!8m2!3d46.119129!4d15.202626!15sCgxyaW1za2UgdGVybWWSAQVob3RlbOABAA!16s%2Fg%2F1q5bl12tt?entry=ttu",
+    "url2": "https://maps.google.com/?q=place_id:ChIJd6pr8CxzZUcRceML8bKSyLI",
+    "description": "Roman bathhouse still in operation in the Slovenian countryside.",
+    "country": "Slovenia"
   }
 ]
