@@ -101,3 +101,7 @@ Russian bathhouse in London.
 Hackney Wick Community Sauna
 https://www.google.com/maps/place/Hackney+Wick+Community+Sauna/@51.5471462,-0.029312,15z/data=!4m2!3m1!1s0x0:0xd639ed5b17700301?sa=X&ved=1t:2428&ictx=111
 Community sauna in London.
+
+Sauna Tokyo
+https://www.google.com/maps/place/Sauna+Tokyo/@35.673291,139.7377125,15z/data=!4m2!3m1!1s0x0:0x9c9bbba914b178ab?sa=X&ved=1t:2428&ictx=111
+Saunachelin award winner. Four sauna rooms, three cold plunges ranging in temperature. A large totonoi room with Pocari Sweat on tap.
