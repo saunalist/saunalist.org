@@ -262,5 +262,27 @@
     "url2": "https://maps.google.com/?q=place_id:ChIJd6pr8CxzZUcRceML8bKSyLI",
     "description": "Roman bathhouse still in operation in the Slovenian countryside.",
     "country": "Slovenia"
+  },
+  {
+    "name": "Banya No.1 - Hoxton",
+    "gname": "Banya No.1 - Hoxton",
+    "place_id": "ChIJscLxT6ccdkgR4JQC5l_JcD8",
+    "lat": 51.53015,
+    "lng": -0.094344,
+    "url": "https://www.google.com/maps/place/Banya+No.1+-+Hoxton/@51.53015,-0.094344,15z/data=!4m2!3m1!1s0x0:0x3f70c95fe60294e0?sa=X&ved=1t:2428&ictx=111",
+    "url2": "https://maps.google.com/?q=place_id:ChIJscLxT6ccdkgR4JQC5l_JcD8",
+    "description": "Russian bathhouse in London.",
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Hackney Wick Community Sauna",
+    "gname": "Hackney Wick Community Sauna",
+    "place_id": "ChIJwXJhTIYddkgRAQNwF1vtOdY",
+    "lat": 51.54713659999999,
+    "lng": -0.0292976,
+    "url": "https://www.google.com/maps/place/Hackney+Wick+Community+Sauna/@51.5471462,-0.029312,15z/data=!4m2!3m1!1s0x0:0xd639ed5b17700301?sa=X&ved=1t:2428&ictx=111",
+    "url2": "https://maps.google.com/?q=place_id:ChIJwXJhTIYddkgRAQNwF1vtOdY",
+    "description": "Community sauna in London.",
+    "country": "United Kingdom"
   }
 ]

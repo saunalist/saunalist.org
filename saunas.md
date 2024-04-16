@@ -94,3 +94,10 @@ Rimske Terme
 https://www.google.com/maps/place/Rimske+Terme+Spa+%26+Business/@46.1189275,15.2008268,17.77z/data=!4m13!1m2!2m1!1srimske+terme!3m9!1s0x4765732cf06baa77:0xb2c892b2f10be371!5m2!4m1!1i2!8m2!3d46.119129!4d15.202626!15sCgxyaW1za2UgdGVybWWSAQVob3RlbOABAA!16s%2Fg%2F1q5bl12tt?entry=ttu
 Roman bathhouse still in operation in the Slovenian countryside.
 
+Banya No.1 - Hoxton
+https://www.google.com/maps/place/Banya+No.1+-+Hoxton/@51.53015,-0.094344,15z/data=!4m2!3m1!1s0x0:0x3f70c95fe60294e0?sa=X&ved=1t:2428&ictx=111
+Russian bathhouse in London.
+
+Hackney Wick Community Sauna
+https://www.google.com/maps/place/Hackney+Wick+Community+Sauna/@51.5471462,-0.029312,15z/data=!4m2!3m1!1s0x0:0xd639ed5b17700301?sa=X&ved=1t:2428&ictx=111
+Community sauna in London.
