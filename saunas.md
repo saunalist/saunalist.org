@@ -113,3 +113,11 @@ Singapore is not known for its saunas. But SPHERE is notable for its high qualit
 Othership Flatiron
 https://www.google.com/maps/place/Othership+Flatiron/@40.7403905,-73.9949711,16z/data=!3m1!4b1!4m6!3m5!1s0x89c2590007db132b:0xc5163da95b446690!8m2!3d40.7403905!4d-73.9923962!16s%2Fg%2F11vz0tbgtn?entry=ttu
 Like Bathhouse, a venue for tech bros, wellness influencers, and those who self-identify as "founders." While both Bathhouse and Othership are catering to the same Williamsburg-Wellness archetype, they differ in one critical way. Bathhouse is founded by a known grifter and scammer, exploiting the wellness trend for his financial favor; Othership, on the other hand, is founded by a team of people who genuinely care. They care about the sauna experience, and in providing NYC with a alternative to happy hours and drinking culture. Every detail is carefully crafted. The cold plunge room is a sight to behold with 7 distinct pools at an icy 0 degrees Celcius (via bags of bodega ice). Some might cringe at the sheer religiousness of it all. You might get scolded for not singing along to sauna songs (do you not respect our beloved Sauna Gods, Professor Huberman and Wim Hof?), but it's undeniably worth a visit. No doubt that many will call this their third place.
+
+Vital Gym
+https://www.google.com/maps/place/VITAL+Climbing+Gym+-+Brooklyn/@40.7227169,-73.9547756,15z/data=!4m2!3m1!1s0x0:0xd06fde84754166a6?sa=X&ved=1t:2428&ictx=111
+A climbing gym with a sauna on the roof deck. A great place to meet NPCs. Capacity of 6, but that appears to be taken as a challenge. Stinky.
+
+Milk Sauna
+https://www.google.com/maps/place/%E3%81%97%E3%82%93%E3%82%80%E3%82%89%E7%89%A7%E5%A0%B4+%E3%82%B5%E3%82%A6%E3%83%8A/@43.2355254,143.2325735,12z/data=!4m6!3m5!1s0x5f731ba1e01b88e1:0xc4020fdc6c03c43b!8m2!3d43.2352429!4d143.2328341!16s%2Fg%2F11y1xtby4q?coh=210790&entry=tts&g_ep=EgoyMDI0MDUyMi4wKgBIAVAD
+Milk Sauna! At a cow ranch in Hokkaido! Unlimited milk for hydration. The window from the sauna provides a panoramic view of the cows.
