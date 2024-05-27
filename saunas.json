@@ -179,8 +179,8 @@
     "name": "Kinnokame",
     "gname": "\u751f\u59dc\u30b5\u30a6\u30ca \u91d1\u306e\u4e80",
     "place_id": "ChIJnQoDdsGNGGARwoOL6hYRcUM",
-    "lat": 35.6757696,
-    "lng": 139.7358197,
+    "lat": 35.6757697,
+    "lng": 139.7358205,
     "url": "https://www.google.com/maps/place/%E7%94%9F%E5%A7%9C%E3%82%B5%E3%82%A6%E3%83%8A+%E9%87%91%E3%81%AE%E4%BA%80/@35.6757635,139.7357864,17z/data=!4m14!1m7!3m6!1s0x60188dc176030a9d:0x43711116ea8b83c2!2z55Sf5aec44K144Km44OKIOmHkeOBruS6gA!8m2!3d35.6757635!4d139.7357864!16s%2Fg%2F11jz5gsvy3!3m5!1s0x60188dc176030a9d:0x43711116ea8b83c2!8m2!3d35.6757635!4d139.7357864!16s%2Fg%2F11jz5gsvy3?entry=ttu",
     "url2": "https://maps.google.com/?q=place_id:ChIJnQoDdsGNGGARwoOL6hYRcUM",
     "description": "A.k.a. Kinnokame, a delightful turtle and ginger-themed sauna in Akasaka. Cold plunge is infused with ginger. Loyly is infused with ginger essential oils. Free ginger sugar tablets and ginger water.",
@@ -278,11 +278,33 @@
     "name": "Hackney Wick Community Sauna",
     "gname": "Hackney Wick Community Sauna",
     "place_id": "ChIJwXJhTIYddkgRAQNwF1vtOdY",
-    "lat": 51.54713659999999,
-    "lng": -0.0292976,
+    "lat": 51.5471382,
+    "lng": -0.0293,
     "url": "https://www.google.com/maps/place/Hackney+Wick+Community+Sauna/@51.5471462,-0.029312,15z/data=!4m2!3m1!1s0x0:0xd639ed5b17700301?sa=X&ved=1t:2428&ictx=111",
     "url2": "https://maps.google.com/?q=place_id:ChIJwXJhTIYddkgRAQNwF1vtOdY",
     "description": "Community sauna in London.",
     "country": "United Kingdom"
+  },
+  {
+    "name": "Sauna Tokyo",
+    "gname": "Sauna Tokyo",
+    "place_id": "ChIJCXXkNHeLGGARq3ixFKm7m5w",
+    "lat": 35.673291,
+    "lng": 139.7377125,
+    "url": "https://www.google.com/maps/place/Sauna+Tokyo/@35.673291,139.7377125,15z/data=!4m2!3m1!1s0x0:0x9c9bbba914b178ab?sa=X&ved=1t:2428&ictx=111",
+    "url2": "https://maps.google.com/?q=place_id:ChIJCXXkNHeLGGARq3ixFKm7m5w",
+    "description": "Saunachelin award winner. Four sauna rooms, three cold plunges ranging in temperature. A large totonoi room with Pocari Sweat on tap.",
+    "country": "Japan"
+  },
+  {
+    "name": "Othership Flatiron",
+    "gname": "Othership Flatiron",
+    "place_id": "ChIJKxPbBwBZwokRkGZEW6k9FsU",
+    "lat": 40.7403905,
+    "lng": -73.9923962,
+    "url": "https://www.google.com/maps/place/Othership+Flatiron/@40.7403905,-73.9949711,16z/data=!3m1!4b1!4m6!3m5!1s0x89c2590007db132b:0xc5163da95b446690!8m2!3d40.7403905!4d-73.9923962!16s%2Fg%2F11vz0tbgtn?entry=ttu",
+    "url2": "https://maps.google.com/?q=place_id:ChIJKxPbBwBZwokRkGZEW6k9FsU",
+    "description": "Like Bathhouse, a venue for tech bros, wellness influencers, and those who self-identify as \"founders.\" While both Bathhouse and Othership are catering to the same Williamsburg-Wellness archetype, they differ in one critical way. Bathhouse is founded by a known grifter and scammer, exploiting the wellness trend for his financial favor; Othership, on the other hand, is founded by a team of people who genuinely care. They care about the sauna experience, and in providing NYC with a alternative to happy hours and drinking culture. Every detail is carefully crafted. The cold plunge room is a sight to behold with 7 distinct pools at an icy 0 degrees Celcius (via bags of bodega ice). Some might cringe at the sheer religiousness of it all. You might get scolded for not singing along to sauna songs (do you not respect our beloved Sauna Gods, Professor Huberman and Wim Hof?), but it's undeniably worth a visit. No doubt that many will call this their third place.",
+    "country": "United States"
   }
 ]
