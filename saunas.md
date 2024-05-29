@@ -6,7 +6,7 @@ Paradise Sauna
 https://www.google.com/maps/place/Paradise/@35.648092,139.7457597,17z/data=!3m1!5s0x60188bb0e1867caf:0x63c2d8333a125136!4m14!1m7!3m6!1s0x60188b41c113b8a5:0xe3a6d2db59480fcc!2sParadise!8m2!3d35.648092!4d139.7457597!16s%2Fg%2F11sgwr1t0h!3m5!1s0x60188b41c113b8a5:0xe3a6d2db59480fcc!8m2!3d35.648092!4d139.7457597!16s%2Fg%2F11sgwr1t0h?entry=ttu
 Saunachelin award winner for 2022. Idyllic interior. One of the top recommendations for Tokyo saunas. Female days on the 10th, 20th, 30th of each month. Male only other days.
 
-BATHHOUSE
+BATHHOUSE Williamsburg
 https://www.google.com/maps/place/Bathhouse+Williamsburg/@40.7205873,-73.9575054,17z/data=!3m1!5s0x89c2595d3d9ba331:0xb1a4be7519c99efb!4m14!1m7!3m6!1s0x89c2592c007f3105:0x5edc042320b5cc93!2sBathhouse+Williamsburg!8m2!3d40.7205873!4d-73.9575054!16s%2Fg%2F11h5nzy86m!3m5!1s0x89c2592c007f3105:0x5edc042320b5cc93!8m2!3d40.7205873!4d-73.9575054!16s%2Fg%2F11h5nzy86m?entry=ttu
 True to overproductionized Williamsburg. Hilarious Aufguss experiences served daily represents the commoditization of wellness culture. Owned and run by a known Brooklyn grifter, so patronize at your discretion. Reasonably functional sauna and cold plunge.
 
@@ -112,7 +112,7 @@ Singapore is not known for its saunas. But SPHERE is notable for its high qualit
 
 Othership Flatiron
 https://www.google.com/maps/place/Othership+Flatiron/@40.7403905,-73.9949711,16z/data=!3m1!4b1!4m6!3m5!1s0x89c2590007db132b:0xc5163da95b446690!8m2!3d40.7403905!4d-73.9923962!16s%2Fg%2F11vz0tbgtn?entry=ttu
-Like Bathhouse, a venue for tech bros, wellness influencers, and those who self-identify as "founders." While both Bathhouse and Othership are catering to the same Williamsburg-Wellness archetype, they differ in one critical way. Bathhouse is founded by a known grifter and scammer, exploiting the wellness trend for his financial favor; Othership, on the other hand, is founded by a team of people who genuinely care. They care about the sauna experience, and in providing NYC with a alternative to happy hours and drinking culture. Every detail is carefully crafted. The cold plunge room is a sight to behold with 7 distinct pools at an icy 0 degrees Celcius (via bags of bodega ice). Some might cringe at the sheer religiousness of it all. You might get scolded for not singing along to sauna songs (do you not respect our beloved Sauna Gods, Professor Huberman and Wim Hof?), but it's undeniably worth a visit. No doubt that many will call this their third place.
+Like Bathhouse, a venue for tech bros, wellness influencers, and those who self-identify as "founders." While both Bathhouse and Othership are catering to the same Williamsburg-Wellness archetype, they differ in one critical way. Bathhouse is founded by a known grifter and scammer, exploiting the wellness trend for his financial favor; Othership, on the other hand, is founded by a team of people who genuinely care. They care about the sauna experience, and in providing NYC with a alternative to happy hours and drinking culture. Every detail is carefully crafted. The cold plunge room is a sight to behold with 6 distinct pools at an icy 0 degrees Celcius (via bags of bodega ice). Some might cringe at the sheer religiousness of it all, but it's undeniably worth a visit. On-rail class experiences instead of stay-as-long-as-you-want day passes. No doubt that many will call this their third place.
 
 Vital Gym
 https://www.google.com/maps/place/VITAL+Climbing+Gym+-+Brooklyn/@40.7227169,-73.9547756,15z/data=!4m2!3m1!1s0x0:0xd06fde84754166a6?sa=X&ved=1t:2428&ictx=111
@@ -121,3 +121,7 @@ A climbing gym with a sauna on the roof deck. A great place to meet NPCs. Capaci
 Milk Sauna
 https://www.google.com/maps/place/%E3%81%97%E3%82%93%E3%82%80%E3%82%89%E7%89%A7%E5%A0%B4+%E3%82%B5%E3%82%A6%E3%83%8A/@43.2355254,143.2325735,12z/data=!4m6!3m5!1s0x5f731ba1e01b88e1:0xc4020fdc6c03c43b!8m2!3d43.2352429!4d143.2328341!16s%2Fg%2F11y1xtby4q?coh=210790&entry=tts&g_ep=EgoyMDI0MDUyMi4wKgBIAVAD
 Milk Sauna! At a cow ranch in Hokkaido! Unlimited milk for hydration. The window from the sauna provides a panoramic view of the cows.
+
+BATHHOUSE Flatiron
+https://www.google.com/maps/place/Bathhouse+Flatiron/@40.7411781,-73.9913162,15z/data=!4m2!3m1!1s0x0:0xbcc4d9eb2bf0d676?sa=X&ved=1t:2428&ictx=111
+The sequal to BATHHOUSE Williamsburg. They worked out all the kinks. WB had too small of a cold plunge and too small locker rooms. This time? Two elongated cold plunges and impossibly labrynthian locker rooms. Multiple sauna options, including a dry banya room, the aufguss room, and an infrared. The size of each is impressively massive. The interior feels like a spaceship. Cold plunges are of two different temperatures (one in 50s, one in 40s (F)). Caters to a younger, hipper clientelle. While all the details seem perfected and optimized, the experience might feel a bit... sterile. Like it was designed for not for  humans, but for AI humanoid automotons that require a precise protocol of heat and cold exposure to maintain optimal performance. There's no charm here. Kudos to the team for keeping the day pass price reasonable, though (they could easily justify AIRE prices).
